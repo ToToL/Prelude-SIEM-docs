@@ -1,6 +1,11 @@
 Prelude-SIEM
 ============
 
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
 Prelude-SIEM is brought to you by CS (http://www.c-s.fr) under GPLv2 license :
 https://www.prelude-siem.org
 
@@ -102,3 +107,10 @@ Github
 ++++++
 
 Project : https://github.com/Prelude-SIEM/libpreludedb
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
