@@ -251,7 +251,7 @@ Prelude-user forums can be accessed at:
 
 Old mailing lists can be accessed at:
 
-* http://news.gmane.org/gmane.comp.security.ids.prelude.user
+* http://premalink.gmane.org/gmane.comp.security.ids.prelude.user
 
 Commercial Support is available through the CS company:
 
