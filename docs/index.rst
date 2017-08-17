@@ -59,22 +59,24 @@ Prelude SIEM Wiki
     * `LibpreludeDB <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludeDbLibrary>`_
     * `Prelude Manager <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludeManager>`_
     * `Prelude Correlator <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludeCorrelator>`_
-    * `Prelude LML <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludeLml
-    * `Prewikka <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludePrewikka
+    * `Prelude LML <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludeLml>`_
+    * `Prewikka <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPreludePrewikka>`_
 
-  * `Installation from packages <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPackage
+  * `Installation from packages <https://www.prelude-siem.org/projects/prelude/wiki/InstallingPackage>`_
   * Agents Installation
 
-    * `Agents Registration <https://www.prelude-siem.org/projects/prelude/wiki/InstallingAgentRegistration
-    * `3rd Party Agents Installation <https://www.prelude-siem.org/projects/prelude/wiki/InstallingAgentThirdparty
+    * `Agents Registration <https://www.prelude-siem.org/projects/prelude/wiki/InstallingAgentRegistration>`_
+    * `3rd Party Agents Installation <https://www.prelude-siem.org/projects/prelude/wiki/InstallingAgentThirdparty>`_
 
 * Configuration
 
-  * `General Configuration <https://www.prelude-siem.org/projects/prelude/wiki/ConfigurationGeneral
+  * `General Configuration <https://www.prelude-siem.org/projects/prelude/wiki/ConfigurationGeneral>`_
   * Prelude Components Configuration
-    * `Prelude-Manager <https://www.prelude-siem.org/projects/prelude/wiki/PreludeManager
-    * `Prelude-Correlator <https://www.prelude-siem.org/projects/prelude/wiki/PreludeCorrelator
-    * `Prelude-LML <https://www.prelude-siem.org/projects/prelude/wiki/PreludeLml
+
+    * `Prelude-Manager <https://www.prelude-siem.org/projects/prelude/wiki/PreludeManager>`_
+    * `Prelude-Correlator <https://www.prelude-siem.org/projects/prelude/wiki/PreludeCorrelator>`_
+    * `Prelude-LML <https://www.prelude-siem.org/projects/prelude/wiki/PreludeLml>`_
+
   * `Howto Configure High Availability Central Services <https://www.prelude-siem.org/projects/prelude/wiki/HowtoHACentralServices>`_
 
 * Optimisation
