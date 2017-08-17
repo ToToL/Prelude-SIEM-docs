@@ -246,12 +246,15 @@ Get Support
 -----------
 
 Prelude-user forums can be accessed at: 
+
 * https://www.prelude-siem.org/projects/prelude/boards
 
 Old mailing lists can be accessed at:
+
 * http://news.gmane.org/gmane.comp.security.ids.prelude.user
 
 Commercial Support is available through the CS company:
+
 * http//www.prelude-siem.com, contact.prelude@c-s.fr
 
 Help development
@@ -264,12 +267,14 @@ The Prelude source is constantly changing. If you want to submit a patch,
 please do so from the most recent GIT source tree, subscribe to the
 prelude-devel forum and post your patch with a description of functionality.
 You can also attach patches to bugs on
+
 * https://www.prelude-siem.org
 
 Bugs
 ^^^^
 
 If you find any bugs, please report them to:
+
 * https://www.prelude-siem.org
 
 Please make sure that what you're reporting is actually a BUG and not
