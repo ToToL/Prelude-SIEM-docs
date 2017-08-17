@@ -1,7 +1,6 @@
+************
 Prelude-SIEM
-============
-
-Contents:
+************
 
 .. toctree::
    :maxdepth: 2
@@ -45,7 +44,7 @@ Prewikka
 --------
 
 Overview
-++++++++
+^^^^^^^^
 
 Originally written by Markus Alkio and Miika Keskinen, re-written and
 maintained by Nicolas Delon with the help of Yoann Vandoorselaere and Audrey
@@ -56,7 +55,7 @@ Prewikka is a professional looking application providing advanced features like
 contextual filtering, aggregation, etc.
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/prewikka
 
@@ -64,7 +63,7 @@ Prelude-Correlator
 ------------------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/prelude-correlator
 
@@ -72,7 +71,7 @@ Prelude-LML
 -----------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/prelude-lml
 
@@ -80,7 +79,7 @@ Prelude-LML-Rules
 -----------------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/prelude-lml-rules
 
@@ -88,7 +87,7 @@ Prelude-Manager
 ---------------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/prelude-manager
 
@@ -96,7 +95,7 @@ LibPrelude
 ----------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/libprelude
 
@@ -104,7 +103,7 @@ LibPreludeDB
 ------------
 
 Github
-++++++
+^^^^^^
 
 Project : https://github.com/Prelude-SIEM/libpreludedb
 
